@@ -1,0 +1,8 @@
+{
+  "name": "SAPP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "a3d96b91"
+}

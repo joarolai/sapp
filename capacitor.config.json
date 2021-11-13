@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "SAPP",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
